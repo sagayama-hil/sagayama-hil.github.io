@@ -11,7 +11,7 @@ title: Access to Meiji University Nakano Campus
     + 新宿駅より中央線快速で約4分
 
 
-こちらもご覧ください [明治大学キャンパスガイド](www.meiji.ac.jp/koho/campus_guide/index.html)
+こちらもご覧ください [明治大学キャンパスガイド](http://www.meiji.ac.jp/koho/campus_guide/index.html)
 
 ### 地図
 
