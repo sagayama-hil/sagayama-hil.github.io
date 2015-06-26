@@ -10,10 +10,13 @@ title: Sagayama lab members
 
 #### 研究員
 + 中村 栄太
-+ 橘 秀幸
++ 濱田 康弘
+
+#### 研究員
++ Edson Silveira
 
 #### 学生
-
-+ B2: 14名
++ B3: 12名
++ B2: 6名
 + B1: 6名
 
