@@ -12,7 +12,7 @@ title: Sagayama lab members
 + 中村 栄太
 + 濱田 康弘
 
-#### 研究員
+#### 研究生
 + Edson Silveira
 
 #### 学生
